@@ -3,6 +3,7 @@ import Hello from './Hello';
 import Wrapper from './Wrapper'
 import Counter from './Counter'
 import Input from './Input'
+import Effect from './Effect'
 
 //App component는 부모, Hello component는 자식
 //그렇기 때문에 Hello component에서 일어나는 일이 App 까지 영향을 끼치지 않음
@@ -14,6 +15,7 @@ function App() {
       <Hello name = "React!" />
       <Counter/>
       <Input/>
+      <Effect/>
     </Wrapper>
   );
 }
