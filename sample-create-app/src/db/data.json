@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "task": "HW",
+      "due": "20210901",
+      "status": "todo"
+    },
+    {
+      "id": 2,
+      "task": "Exercise",
+      "due": "20210901",
+      "status": "done"
+    },
+    {
+      "id": 3,
+      "task": "Practice",
+      "due": "20210901",
+      "status": "todo"
+    },
+    {
+      "id": 4,
+      "task": "etc",
+      "due": "20210901",
+      "status": "done"
+    },
+    {
+      "id": 5,
+      "task": "etc",
+      "due": "20210901",
+      "status": "todo"
+    }
+  ]
+}

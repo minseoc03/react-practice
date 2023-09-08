@@ -6,7 +6,7 @@ import Input from "./Input";
 import Effect from "./Effect";
 import IndexPage from "./IndexPage";
 import Home from "./Home";
-import CustomHook from "./CustomHook"
+import CustomHook from "./CustomHook";
 
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
